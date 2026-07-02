@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0057-insert-interval) |
+| [0209-minimum-size-subarray-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0435-non-overlapping-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -58,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
