@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0228-summary-ranges](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0228-summary-ranges) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Greedy
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
