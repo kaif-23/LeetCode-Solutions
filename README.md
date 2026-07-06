@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
