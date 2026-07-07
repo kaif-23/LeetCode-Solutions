@@ -40,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -110,4 +113,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
