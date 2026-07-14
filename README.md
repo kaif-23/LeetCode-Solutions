@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Topological Sort
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
