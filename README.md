@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
