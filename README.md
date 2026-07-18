@@ -201,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
