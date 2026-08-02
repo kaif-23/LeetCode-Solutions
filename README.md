@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0435-non-overlapping-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
 | ------- |
@@ -289,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
