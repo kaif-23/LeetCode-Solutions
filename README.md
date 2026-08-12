@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0815-bus-routes) |
 | [1331-rank-transform-of-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1496-path-crossing](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1496-path-crossing) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
