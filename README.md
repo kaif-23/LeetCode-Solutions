@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0137-single-number-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0137-single-number-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [2540-minimum-common-value](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
