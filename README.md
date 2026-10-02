@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -548,5 +551,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
