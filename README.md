@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0077-combinations) |
 | [2305-fair-distribution-of-cookies](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bitmask
