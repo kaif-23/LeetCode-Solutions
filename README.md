@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1496-path-crossing](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1496-path-crossing) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bidirectional Search
