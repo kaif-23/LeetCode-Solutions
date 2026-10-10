@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2305-fair-distribution-of-cookies](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2305-fair-distribution-of-cookies) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2540-minimum-common-value](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2831-find-the-longest-equal-subarray](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0502-ipo) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2831-find-the-longest-equal-subarray](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
