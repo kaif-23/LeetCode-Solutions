@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0264-ugly-number-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0502-ipo) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0213-house-robber-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0435-non-overlapping-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0264-ugly-number-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
