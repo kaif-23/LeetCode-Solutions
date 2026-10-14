@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1323-maximum-69-number](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1323-maximum-69-number](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1399-count-largest-group](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1399-count-largest-group) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
