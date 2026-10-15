@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Counting Sort
@@ -604,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0077-combinations) |
+| [0095-unique-binary-search-trees-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [2305-fair-distribution-of-cookies](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
