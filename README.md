@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0213-house-robber-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0435-non-overlapping-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0264-ugly-number-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0357-count-numbers-with-unique-digits](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [2305-fair-distribution-of-cookies](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bitmask
