@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-tallest-billboard](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0956-tallest-billboard) |
 | [1002-find-common-characters](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1051-height-checker](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
+| [1051-height-checker](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0274-h-index) |
+| [1051-height-checker](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
@@ -661,4 +664,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
