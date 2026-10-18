@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0275-h-index-ii) |
+| [0289-game-of-life](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0436-find-right-interval) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0909-snakes-and-ladders](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [1260-shift-2d-grid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
