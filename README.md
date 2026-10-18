@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-tallest-billboard](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0956-tallest-billboard) |
 | [1002-find-common-characters](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1037-valid-boomerang](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1037-valid-boomerang](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
 | [1140-stone-game-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1399-count-largest-group](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1399-count-largest-group) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1037-valid-boomerang](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Backtracking
 |  |
