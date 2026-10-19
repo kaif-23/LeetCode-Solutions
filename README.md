@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0228-summary-ranges](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0228-summary-ranges) |
+| [0239-sliding-window-maximum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0274-h-index) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0502-ipo) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -576,10 +579,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Game Theory
 |  |
@@ -687,4 +692,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
