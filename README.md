@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
+| [0355-design-twitter](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0763-partition-labels](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0763-partition-labels) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0355-design-twitter](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0502-ipo) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0355-design-twitter](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0355-design-twitter) |
 ## Recursion
 |  |
 | ------- |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0355-design-twitter](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Monotonic Stack
 |  |
