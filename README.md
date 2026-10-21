@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Counting
 |  |
