@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0763-partition-labels](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [0962-maximum-width-ramp](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0962-maximum-width-ramp) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0678-valid-parenthesis-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0859-buddy-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0962-maximum-width-ramp) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0844-backspace-string-compare](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
