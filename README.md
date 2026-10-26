@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0463-island-perimeter](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0463-island-perimeter](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0463-island-perimeter](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0909-snakes-and-ladders](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0463-island-perimeter](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
