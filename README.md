@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
@@ -851,4 +854,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
