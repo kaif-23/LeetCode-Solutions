@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0815-bus-routes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0815-bus-routes) |
 | [0859-buddy-strings](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0859-buddy-strings) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
