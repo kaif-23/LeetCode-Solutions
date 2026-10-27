@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [0956-tallest-billboard](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0956-tallest-billboard) |
 | [0962-maximum-width-ramp](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0962-maximum-width-ramp) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0990-satisfiability-of-equality-equations](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1002-find-common-characters) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0815-bus-routes) |
 | [0859-buddy-strings](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0859-buddy-strings) |
 | [0888-fair-candy-swap](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
