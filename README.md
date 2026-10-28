@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1002-find-common-characters) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1037-valid-boomerang](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1051-height-checker) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0436-find-right-interval) |
 | [0888-fair-candy-swap](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
