@@ -2,7 +2,7 @@ class Solution {
 public:
 bool isPossible(vector<int>& quantities,int n, int mid){
     for(int num:quantities){
-        n-=(num+mid-1)/mid;//ceil(num/mid);
+        n-=ceil(double(num)/mid);//(num+mid-1)/mid;
         if(n<0){
             return false;
         }
