@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1563-stone-game-v](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
