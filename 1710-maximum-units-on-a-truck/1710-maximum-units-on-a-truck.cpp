@@ -7,10 +7,11 @@ public:
            
             int ans=0;
             for(auto &vec:boxTypes){
+                if(truckSize==0)break;
                 int boxesPossible=min(vec[0],truckSize);
                 truckSize-=boxesPossible;
                 ans+=boxesPossible*vec[1];
-                if(truckSize==0)break;
+                
             }
             return ans;
                 
