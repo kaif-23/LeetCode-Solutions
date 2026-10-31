@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1095-find-in-mountain-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1254-number-of-closed-islands](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0948-bag-of-tokens](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1051-height-checker](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-tallest-billboard](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0956-tallest-billboard) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1406-stone-game-iii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
