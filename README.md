@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0815-bus-routes) |
 | [0860-lemonade-change](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0909-snakes-and-ladders](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0763-partition-labels](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0962-maximum-width-ramp](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0962-maximum-width-ramp) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0881-boats-to-save-people](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0948-bag-of-tokens](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1051-height-checker](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1051-height-checker) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
@@ -945,4 +949,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
