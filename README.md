@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-rank-transform-of-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1406-stone-game-iii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1383-maximum-performance-of-a-team](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1834-single-threaded-cpu](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1383-maximum-performance-of-a-team](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1710-maximum-units-on-a-truck](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
