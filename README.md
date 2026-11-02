@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0670-maximum-swap](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0738-monotone-increasing-digits](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0870-advantage-shuffle](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0870-advantage-shuffle) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0670-maximum-swap) |
+| [0738-monotone-increasing-digits](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
 | [0836-rectangle-overlap](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1037-valid-boomerang](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
