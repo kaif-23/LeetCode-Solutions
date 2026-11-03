@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1834-single-threaded-cpu](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1872-stone-game-viii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1834-single-threaded-cpu](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2054-two-best-non-overlapping-events](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
