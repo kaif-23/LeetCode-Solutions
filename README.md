@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0815-bus-routes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0815-bus-routes) |
 | [0909-snakes-and-ladders](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0990-satisfiability-of-equality-equations](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1383-maximum-performance-of-a-team](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -529,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
