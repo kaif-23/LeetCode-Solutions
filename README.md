@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1642-furthest-building-you-can-reach](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1834-single-threaded-cpu](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1834-single-threaded-cpu](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2054-two-best-non-overlapping-events](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
