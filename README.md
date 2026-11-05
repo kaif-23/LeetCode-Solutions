@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1406-stone-game-iii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2054-two-best-non-overlapping-events](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -704,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -760,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0355-design-twitter) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Recursion
 |  |
 | ------- |
@@ -791,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2305-fair-distribution-of-cookies](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1000,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
