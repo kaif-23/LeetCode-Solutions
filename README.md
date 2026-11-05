@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0990-satisfiability-of-equality-equations](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0990-satisfiability-of-equality-equations) |
+| [1192-critical-connections-in-a-network](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1192-critical-connections-in-a-network](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1031,4 +1033,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
