@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1037-valid-boomerang](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
+| [1049-last-stone-weight-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1095-find-in-mountain-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0956-tallest-billboard](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0956-tallest-billboard) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1049-last-stone-weight-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -892,11 +894,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0956-tallest-billboard](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0956-tallest-billboard) |
+| [1049-last-stone-weight-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0956-tallest-billboard](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0956-tallest-billboard) |
+| [1049-last-stone-weight-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## Minimax
 |  |
 | ------- |
