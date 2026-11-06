@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0264-ugly-number-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
