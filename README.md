@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0870-advantage-shuffle) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0909-snakes-and-ladders](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0909-snakes-and-ladders) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0877-stone-game](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0879-profitable-schemes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0956-tallest-billboard](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0956-tallest-billboard) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -901,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0474-ones-and-zeroes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0879-profitable-schemes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0879-profitable-schemes) |
 | [0956-tallest-billboard](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0956-tallest-billboard) |
 | [1049-last-stone-weight-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
@@ -908,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0879-profitable-schemes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0879-profitable-schemes) |
 | [0956-tallest-billboard](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0956-tallest-billboard) |
 | [1049-last-stone-weight-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## Minimax
