@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0086-partition-list) |
+| [0647-palindromic-substrings](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0763-partition-labels](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0647-palindromic-substrings](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0647-palindromic-substrings](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
