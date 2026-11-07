@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2831-find-the-longest-equal-subarray](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2305-fair-distribution-of-cookies](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2305-fair-distribution-of-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3665-twisted-mirror-path-count](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2528-maximize-the-minimum-powered-city](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2540-minimum-common-value](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2831-find-the-longest-equal-subarray](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1011,11 +1014,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2926-maximum-balanced-subsequence-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2926-maximum-balanced-subsequence-sum) |
 ## Bubble Sort
 |  |
 | ------- |
