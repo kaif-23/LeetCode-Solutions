@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1834-single-threaded-cpu](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1872-stone-game-viii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1834-single-threaded-cpu](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1834-single-threaded-cpu) |
+| [1882-process-tasks-using-servers](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2054-two-best-non-overlapping-events](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
