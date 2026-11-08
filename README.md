@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2926-maximum-balanced-subsequence-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3665-twisted-mirror-path-count](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kaif-23/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
