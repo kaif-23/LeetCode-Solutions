@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0330-patching-array](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0330-patching-array) |
 | [0354-russian-doll-envelopes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
