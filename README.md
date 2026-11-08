@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1037-valid-boomerang](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1037-valid-boomerang) |
+| [1043-partition-array-for-maximum-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1051-height-checker) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0956-tallest-billboard](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0956-tallest-billboard) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1043-partition-array-for-maximum-sum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
