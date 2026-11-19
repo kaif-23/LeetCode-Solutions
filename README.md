@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0355-design-twitter](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0433-minimum-genetic-mutation](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1267-count-servers-that-communicate](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1399-count-largest-group](https://github.com/kaif-23/LeetCode-Solutions/tree/master/1399-count-largest-group) |
@@ -965,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kaif-23/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/kaif-23/LeetCode-Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Monotonic Queue
